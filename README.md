@@ -1,2 +1,2 @@
-# BitView code by copy
+# BitView code from copy
 BitView source code 
